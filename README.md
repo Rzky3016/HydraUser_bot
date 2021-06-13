@@ -1,4 +1,4 @@
-# Hydra Userbot
+# Hydra Userbot 🐍
 ![Hydra-Userbot Logo](https://telegra.ph/file/88bbbe83b920f46df9803.jpg)
 
 
