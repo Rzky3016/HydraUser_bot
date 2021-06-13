@@ -28,13 +28,15 @@ String_Session [Tekan](https://replit.com/@ferikunn/String-Sesson-Saya)
 
    <a href="https://t.me/HydraUserbotSupport"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
 
+## Deploy To Heroku ⚜
 
-## <p align="center">DEPLOY Hydra-Userbot</p>
+## <p align="center">Deploy to Heroku Methods</p>
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/PashaDIE/HydraUser_bot/tree/HydraUser_bot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-magenta?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/PashaDIE/Hydra-Userbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 <br>
+
 </p>
 
 ## Kredit
