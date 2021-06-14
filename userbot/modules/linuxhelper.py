@@ -11,23 +11,23 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 @register(outgoing=True, pattern="^.lhelp$")
 async def usit(e):
     await e.edit(
-        f"**Hai Tuan {DEFAULTUSER} Kalau Anda Tidak Tau Perintah Untuk Memerintah Ku Ketik** `.help` Atau Bisa Minta Bantuan Ke:\n"
-        "\n[Mastah](t.me/xflicks)"
-        "\n[Repo](https://github.com/ferikunn/Linux-Userbot)"
-        "\n[Instagram Mastah](Instagram.com/ferikunn)")
+        f"**Hai Raja {DEFAULTUSER} Kalau Anda Tidak Tau Perintah Untuk Memerintah Ku Ketik** `.help` Atau Bisa Minta Bantuan Ke:\n"
+        "\n[Owner](t.me/PashaDIE)"
+        "\n[Repo](https://github.com/PashaDIE/HydraUser_bot)"
+        "\n[Instagram Owner](Instagram.com/Pdie.09)")
 
 
 @register(outgoing=True, pattern="^.vars$")
 async def var(m):
     await m.edit(
         f"**Disini Daftar Vars Dari {DEFAULTUSER}:**\n"
-        "\n[DAFTAR VARS](https://raw.githubusercontent.com/ferikunn/Linux-Userbot/Linux-Userbot/varshelper.txt)")
+        "\n[DAFTAR VARS](https://raw.githubusercontent.com/PashaDIE/HydraUser_bot/HydraUser_bot/varshelper.txt)")
 
 
 CMD_HELP.update({
-    "linuxhelper":
-    "🐧CMD🐧`.lhelp`\
+    "hydrahelper":
+    "�🐍CMD�🐍`.hhelp`\
 \nPenjelasan: Bantuan Untuk saya-Userbot.\
-\n🐧CMD🐧`.vars`\
+\n�🐍CMD�🐍`.vars`\
 \nPenjelasan: Untuk Melihat Beberapa Daftar Vars."
 })
