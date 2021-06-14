@@ -64,7 +64,7 @@ async def pingme(pong):
                     f"\n  👉🏼 `{ALIVE_NAME}` \n" % (duration))
 
 
-@register(outgoing=True, pattern="^.lping$")
+@register(outgoing=True, pattern="^.hping$")
 async def pingme(pong):
     """ For .ping command, ping the userbot from any chat.  """
     uptime = await get_readable_time((time.time() - StartTime))
@@ -219,7 +219,7 @@ async def pingme(pong):
 
 CMD_HELP.update({
     "ping":
-    "•CMD:`.ping` ; •CMD:`.lping` ; •CMD:`.xping` ; •CMD:`.fping`\
+    "•CMD:`.ping` ; •CMD:`.hping` ; •CMD:`.xping` ; •CMD:`.fping`\
     \nPenjelasan: Untuk menunjukkan ping bot.\
     \n\n•CMD:`.speed`\
     \nPenjelasan: Untuk menunjukkan kecepatan.\
