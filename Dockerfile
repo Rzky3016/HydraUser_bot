@@ -3,7 +3,7 @@ FROM biansepang/weebproject:buster
 #
 # Feri
 #
-RUN git clone -b Linux-Userbot https://github.com/PashaDIE/HydraUser_bot/root/userbot
+RUN git clone -b Linux-Userbot https://github.com/PashaDIE/HydraUser_bot /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
