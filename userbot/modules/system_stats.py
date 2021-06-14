@@ -273,7 +273,7 @@ async def amireallyalive(alive):
         f"♚ **Repo Linux:** [HYDRA-Userbot](https://github.com/PashaDIE/HydraUser_bot)\n🛠️ **Group Support: **[Tekan](t.me/PashaDIE)\n👨‍💻 **Owner:** [Pasha](t.me/PashaDIE)\n"
         f"══════════════════════")
     if ALIVE_LOGO
-        try:
+       try:
             logo = ALIVE_LOGO
             await alive.delete()
             msg = await bot.send_file(alive.chat_id, logo, caption=output)
