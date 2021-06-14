@@ -1,7 +1,7 @@
 {
-  "name": "Linux-Userbot",
-  "description": "[Linux-Userbot] USERBOT TELEGRAM.",
-  "logo": "https://telegra.ph/file/a347ed9a0b3ae6db7b24c.jpg",
+  "name": "Hydra-Userbot",
+  "description": "[Hydra-Userbot] adalah Cloningan Dari Linux-Userbot.",
+  "logo": "https://telegra.ph/file/88bbbe83b920f46df9803.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ferikunn/Linux-Userbot",
-  "telegram": "https://t.me/xflicks",
-  "success_url": "https://t.me/xflicks",
+  "repository": "https://github.com/PashaDIE/HydraUser_bot",
+  "telegram": "https://t.me/PashaDIE",
+  "success_url": "https://t.me/PashaDIE",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -155,15 +155,15 @@
     },
     "DEFAULT_BIO": {
       "description": "Default Bio Mu.",
-      "value": "LINUX-USERBOT",
+      "value": "HYDRA-USERBOT",
       "required": false
     },
     "ALIVE_NAME": {
       "description": "Nama untuk menunjukan pesan .alive",
       "required": false
     },
-    "LINUX_TEKS_KUSTOM": {
-      "description": "Kustom Pesan Alive Mu Untuk Perintah .linux (Isi Terserah)",
+    "HYDRA_TEKS_KUSTOM": {
+      "description": "Kustom Pesan Alive Mu Untuk Perintah .hydra (Isi Terserah)",
       "required": false
     },
     "S_PACK_NAME": {
