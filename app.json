@@ -163,7 +163,7 @@
       "required": false
     },
     "HYDRA_TEKS_KUSTOM": {
-      "description": "Kustom Pesan Alive Mu Untuk Perintah .linux (Isi Terserah)",
+      "description": "Kustom Pesan Alive Mu Untuk Perintah .hydra (Isi Terserah)",
       "required": false
     },
     "S_PACK_NAME": {
