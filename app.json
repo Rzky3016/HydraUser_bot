@@ -162,7 +162,7 @@
       "description": "Nama untuk menunjukan pesan .alive",
       "required": false
     },
-    "LINUX_TEKS_KUSTOM": {
+    "HYDRA_TEKS_KUSTOM": {
       "description": "Kustom Pesan Alive Mu Untuk Perintah .linux (Isi Terserah)",
       "required": false
     },
