@@ -1,5 +1,5 @@
 # Based Plugins
-# Ported for Linux-Userbot By liualvinas/Alvin Bau Sawi
+# Ported for Hydra-Userbot By PashaDIE
 
 from telethon import events
 from userbot.events import register
@@ -30,6 +30,6 @@ async def _(event):
 
 CMD_HELP.update({
     "aeshtetic":
-    "🐧CMD🐧`.ae <teks>`\
+    "🐍CMD🐍`.ae <teks>`\
     \nUsage: mengubah font teks"
 })
